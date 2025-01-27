@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 
-function App() {
+function Books() {
 
 
   return (
@@ -12,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default Books

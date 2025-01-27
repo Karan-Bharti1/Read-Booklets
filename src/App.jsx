@@ -44,6 +44,7 @@ const handleChange=event=>setFilter(event.target.value)
   {
     displayData
   }
+ 
 </div>
   </main>
     </>
